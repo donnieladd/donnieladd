@@ -1,5 +1,11 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/form-profile-dark.avif">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/form-profile-light.avif">
+  <img src="./assets/form-profile-light.avif" width="360" alt="form.">
+</picture>
+
 # Dontae Ladson
 
 ### Founder & Solutions Architect · Form Intel
