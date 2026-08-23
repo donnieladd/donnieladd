@@ -10,7 +10,7 @@
 
 ### Founder & Solutions Architect · Form Intel
 
-**I help turn vision into structure, then build what that structure needs.**
+*I turn vision into structure, then build what the structure needs to function.*
 
 Full-Stack Development · Web · AI · Automation · Creative · Marketing · Systems • Infrastructure
 
