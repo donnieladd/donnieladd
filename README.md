@@ -34,7 +34,7 @@ The medium changes. The standard does not. **It should work, make sense, and lea
 
 <div align="center">
 
-<img src="./assets/form-people-quote.svg" width="760" alt="I build technology. I build systems around people, not people around systems.">
+<img src="./assets/form-people-quote-v2.svg" width="760" alt="I build systems around people, not people around systems.">
 
 </div>
 
@@ -216,9 +216,9 @@ What interests me most is not the benchmark. It is what happens when intelligenc
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/form-future-lockup-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/form-future-lockup-light.svg">
-  <img src="./assets/form-future-lockup-light.svg" width="520" alt="VISION NEEDS STRUCTURE. the future needs form.">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/form-future-lockup-v2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/form-future-lockup-v2-light.svg">
+  <img src="./assets/form-future-lockup-v2-light.svg" width="560" alt="VISION NEEDS STRUCTURE. the future needs form.">
 </picture>
 
 </div>
