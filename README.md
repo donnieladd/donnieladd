@@ -6,14 +6,7 @@
 
 **I help turn vision into structure, then build what that structure needs.**
 
-![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-2F6BFF?style=flat-square)
-![Web](https://img.shields.io/badge/Web-2F6BFF?style=flat-square)
-![AI](https://img.shields.io/badge/AI-2F6BFF?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-2F6BFF?style=flat-square)
-![Creative](https://img.shields.io/badge/Creative-D49A3A?style=flat-square)
-![Marketing](https://img.shields.io/badge/Marketing-D49A3A?style=flat-square)
-![Systems](https://img.shields.io/badge/Systems-2C2F36?style=flat-square)
-![Infrastructure](https://img.shields.io/badge/Infrastructure-2C2F36?style=flat-square)
+Full-Stack Development · Web · AI · Automation · Creative · Marketing · Systems • Infrastructure
 
 [form.](https://formintel.co) · [GitHub](https://github.com/donnieladd)
 
@@ -160,7 +153,7 @@ A few questions keep me honest:
 ![CSS](https://img.shields.io/badge/CSS-2F6BFF?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2F6BFF?style=flat-square&logo=postgresql&logoColor=white)
 
-![C++](https://img.shields.io/badge/Currently_digging_into-C%2B%2B-D49A3A?style=flat-square)
+![C++](https://img.shields.io/badge/Currently_digging_into-C%2B%2B-6E7681?style=flat-square&logoColor=white)
 
 ### Frameworks & Application Development
 
