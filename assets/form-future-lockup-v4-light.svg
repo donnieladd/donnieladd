@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="104" viewBox="0 0 480 104" role="img" aria-labelledby="title desc">
+  <title id="title">VISION NEEDS STRUCTURE. the future needs form.</title>
+  <desc id="desc">A restrained two-line form. lockup with three small brand dots between the statements.</desc>
+  <rect width="480" height="104" fill="none"/>
+  <g font-family="Inter, Arial, sans-serif" text-anchor="middle">
+    <text x="240" y="30" fill="#1F2328" font-size="22" font-weight="600" letter-spacing="0.45">VISION NEEDS STRUCTURE</text>
+    <circle cx="225" cy="51" r="2.4" fill="#6E7681"/>
+    <circle cx="240" cy="51" r="2.4" fill="#2F6BFF"/>
+    <circle cx="255" cy="51" r="2.4" fill="#D49A3A"/>
+    <text x="240" y="82" fill="#1F2328" font-size="22" font-weight="400">the future needs <tspan fill="#2F6BFF">form.</tspan></text>
+  </g>
+</svg>
