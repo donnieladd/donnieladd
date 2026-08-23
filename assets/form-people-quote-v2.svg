@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="92" viewBox="0 0 900 92" role="img" aria-labelledby="title desc">
+  <title id="title">I build systems around people, not people around systems.</title>
+  <desc id="desc">A centered form. blue quote about building systems around people.</desc>
+  <rect width="900" height="92" fill="none"/>
+  <text x="96" y="68" fill="#2F6BFF" opacity="0.30" font-family="Georgia, Times New Roman, serif" font-size="74" font-weight="700">“</text>
+  <text x="804" y="82" text-anchor="end" fill="#2F6BFF" opacity="0.30" font-family="Georgia, Times New Roman, serif" font-size="74" font-weight="700">”</text>
+  <text x="450" y="56" text-anchor="middle" fill="#2F6BFF" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700" font-style="italic">I build systems around people, not people around systems.</text>
+</svg>
