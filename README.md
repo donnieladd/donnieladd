@@ -152,38 +152,38 @@ A few questions keep me honest:
 ## Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-2F6BFF?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2F6BFF?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2F6BFF?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=111111)
+![Python](https://img.shields.io/badge/Python-D49A3A?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-2F6BFF?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-2F6BFF?style=flat-square&logo=rust&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-2F6BFF?style=flat-square&logo=ruby&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-FFFFFF?style=flat-square&logo=rust&logoColor=111111)
+![Ruby](https://img.shields.io/badge/Ruby-D49A3A?style=flat-square&logo=ruby&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2F6BFF?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-2F6BFF?style=flat-square&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-2F6BFF?style=flat-square&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-FFFFFF?style=flat-square&logo=php&logoColor=111111)
+![HTML](https://img.shields.io/badge/HTML-D49A3A?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2F6BFF?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2F6BFF?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=111111)
 
-![C++](https://img.shields.io/badge/Currently_digging_into-C%2B%2B-6E7681?style=flat-square&logoColor=white)
+![C++](https://img.shields.io/badge/Currently_digging_into-C%2B%2B-D49A3A?style=flat-square&logoColor=white)
 
 ### Frameworks & Application Development
 
 ![Next.js](https://img.shields.io/badge/Next.js-2F6BFF?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-2F6BFF?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-2F6BFF?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=react&logoColor=111111)
+![Node.js](https://img.shields.io/badge/Node.js-D49A3A?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-2F6BFF?style=flat-square&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2F6BFF?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-2F6BFF?style=flat-square&logo=framer&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=flat-square&logo=tailwindcss&logoColor=111111)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-D49A3A?style=flat-square&logo=framer&logoColor=white)
 
 `Next.js` · `React` · `Node.js` · `FastAPI` · `LangGraph` · `Tailwind CSS` · `Framer Motion`
 
 ### Data, Infrastructure & Deployment
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C2F36?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-2C2F36?style=flat-square&logo=supabase&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-2C2F36?style=flat-square&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-2C2F36?style=flat-square&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2C2F36?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2C2F36?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F6BFF?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-FFFFFF?style=flat-square&logo=supabase&logoColor=111111)
+![Railway](https://img.shields.io/badge/Railway-D49A3A?style=flat-square&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-2F6BFF?style=flat-square&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=111111)
+![Docker](https://img.shields.io/badge/Docker-D49A3A?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
