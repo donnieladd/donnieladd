@@ -146,7 +146,7 @@ The goal is not more content. It is a clearer organization, a stronger story, an
 
 <h3 align="center">form.learning</h3>
 
-<p align="center"><em>AI Enablement & Learning</em></p>
+<p align="center"><em>AI Enablement & Literacy</em></p>
 
 We teach people and organizations how to actually use AI in their work, then help teams turn that learning into real adoption.
 
