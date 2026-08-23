@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="112" viewBox="0 0 700 112" role="img" aria-labelledby="title desc">
+  <title id="title">VISION NEEDS STRUCTURE. the future needs form.</title>
+  <desc id="desc">Two stacked lines of equal visual width, with form. in blue.</desc>
+  <rect width="700" height="112" fill="none"/>
+  <g font-family="Inter, Arial, sans-serif" text-anchor="middle">
+    <text x="350" y="42" fill="#1F2328" font-size="29" font-weight="800" letter-spacing="0.7" textLength="520" lengthAdjust="spacingAndGlyphs">VISION NEEDS STRUCTURE</text>
+    <text x="350" y="86" fill="#1F2328" font-size="32" font-weight="600" textLength="520" lengthAdjust="spacingAndGlyphs">the future needs <tspan fill="#2F6BFF">form.</tspan></text>
+  </g>
+</svg>
