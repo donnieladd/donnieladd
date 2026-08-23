@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="620" height="92" viewBox="0 0 620 92" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="98" viewBox="0 0 660 98" role="img" aria-labelledby="title desc">
   <title id="title">VISION NEEDS STRUCTURE. the future needs form.</title>
-  <desc id="desc">Final form. lockup with form. in blue.</desc>
-  <rect width="620" height="92" fill="none"/>
+  <desc id="desc">Two-line form. lockup with equal visual width and form. in blue.</desc>
+  <rect width="660" height="98" fill="none"/>
   <g font-family="Inter, Arial, sans-serif" text-anchor="middle">
-    <text x="310" y="34" fill="#1F2328" font-size="25" font-weight="800" letter-spacing="0.8">VISION NEEDS STRUCTURE</text>
-    <text x="310" y="72" fill="#1F2328" font-size="30" font-weight="600">the future needs <tspan fill="#2F6BFF">form.</tspan></text>
+    <text x="330" y="36" fill="#1F2328" font-size="27" font-weight="800" letter-spacing="0.6" textLength="500" lengthAdjust="spacingAndGlyphs">VISION NEEDS STRUCTURE</text>
+    <text x="330" y="78" fill="#1F2328" font-size="30" font-weight="600" textLength="500" lengthAdjust="spacingAndGlyphs">the future needs <tspan fill="#2F6BFF">form.</tspan></text>
   </g>
 </svg>
