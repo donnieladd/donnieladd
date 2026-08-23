@@ -132,9 +132,9 @@ The goal is coherence. The brand, website, product, campaign, and real human exp
 
 <img src="./assets/form-thinking-strip.svg" width="760" alt="People, Creativity, Process, Data, Technology, Intelligence">
 
-</div>
-
 I move across disciplines because the work does not stay in one lane. Architecture affects experience. Brand affects trust. Data affects decisions. Systems affect people.
+
+</div>
 
 A few questions keep me honest:
 
@@ -213,6 +213,10 @@ What interests me most is not the benchmark. It is what happens when intelligenc
 
 ## VISION NEEDS STRUCTURE
 
-### the future needs form.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/form-future-lockup-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/form-future-lockup-light.svg">
+  <img src="./assets/form-future-lockup-light.svg" width="390" alt="the future needs form.">
+</picture>
 
 </div>
