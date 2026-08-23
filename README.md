@@ -32,7 +32,11 @@ Sometimes that means architecture or code. Sometimes it means a website, workflo
 
 The medium changes. The standard does not. **It should work, make sense, and leave people better supported than they were before.**
 
-> **I build around people, not people around systems.**
+<div align="center">
+
+<img src="./assets/form-people-quote.svg" width="760" alt="I build around people, not people around systems.">
+
+</div>
 
 Relational equity matters to me. If people cannot trust the system, understand it, or see themselves in it, I do not consider the work finished.
 
