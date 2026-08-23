@@ -4,9 +4,9 @@
 
 ### Solutions Architect · Founder, form.
 
-**I build systems that help people work with more clarity, trust, and leverage.**
+**I build systems, products, brands, and experiences that help people move from vision to something real.**
 
-Software, AI, automation, product, operations — those are the tools.  
+Software, web development, AI, automation, creative, marketing, operations — those are different parts of the work.  
 **People are the reason I care about any of it.**
 
 [form.](https://formintel.co) · [GitHub](https://github.com/donnieladd)
@@ -15,23 +15,23 @@ Software, AI, automation, product, operations — those are the tools.
 
 ---
 
-## I came into technology through people and systems.
+## I came into technology through people, creativity, and systems.
 
 I didn’t start building because I was fascinated with technology for its own sake.
 
-I kept seeing talented people carrying work that better systems should have been carrying for them — unclear ownership, disconnected tools, information living in somebody’s head, teams working hard around broken processes, leaders making decisions without enough visibility.
+I kept seeing good people with strong ideas fighting through bad systems, disconnected tools, unclear ownership, weak communication, inconsistent experiences, and work that never quite looked or functioned the way they imagined it should.
 
 So I started building.
 
-That is still how I think about the work today.
+Sometimes that means architecture. Sometimes it means code. Sometimes it means a website, a brand system, a campaign, a workflow, an AI agent, a product, or an entirely new operating model.
 
-I care about architecture, code, models, agents, data, and infrastructure. But I also care about whether **people trust the system**, whether ownership is clear, whether teams can communicate honestly, whether leaders can see what matters, and whether technology gives people more room to do the work that actually requires a human being.
+I care about whether the thing actually works — but I care just as much about whether **people trust it, understand it, feel considered by it, and can do better work because it exists.**
 
-**Relational equity matters to me.** A system can be technically correct and still make an organization colder, more confusing, or less human. I don’t consider that a good system.
+**Relational equity matters to me.** A system can be technically correct and still make an organization colder, more confusing, or less human. A brand can look beautiful and still fail to understand the people it is supposed to reach. I don’t consider either one good work.
 
-> **I build systems around people — not people around systems.**
+> **I build around people — not people around systems.**
 
-My work lives at the intersection of **people, process, data, software, and intelligence**.
+My work lives at the intersection of **people, creativity, process, data, software, and intelligence**.
 
 ---
 
@@ -45,20 +45,11 @@ My work lives at the intersection of **people, process, data, software, and inte
 
 form. is the company I’m building for the long term.
 
-The idea underneath it is simple: organizations should not have to keep adding more tools to compensate for systems that were never designed to work together.
+The idea underneath it is simple: most organizations do not have isolated problems. Their brand, technology, operations, people, data, communication, and customer experience all affect one another.
 
-I want the operating model, software, data, automation, intelligence, and human experience to feel like **one thoughtful system**.
+I want form. to be able to see that whole picture and help build what is missing — whether that is a system, a product, a website, a creative platform, an AI capability, or the operating structure underneath all of it.
 
-That work spans:
-
-- AI-native software
-- enterprise systems
-- intelligent workflows
-- operational infrastructure
-- digital products
-- automation
-- systems integration
-- human-centered AI
+**Vision deserves infrastructure.**
 
 </td>
 <td width="50%" valign="top">
@@ -76,8 +67,6 @@ Not a chatbot sitting beside the organization.
 A shared operating environment where humans and persistent AI employees can work together with clear roles, context, tools, authority, accountability, memory, and handoffs.
 
 The goal is to make work clearer without making work less human.
-
-Under the hood, the architecture gives different parts of the system clear ownership: work, communication, organizational state, orchestration, intelligence, tools, memory, governance, and evaluation each have a defined home.
 
 **The technology matters. The relationships inside the system matter just as much.**
 
@@ -101,21 +90,62 @@ I’m still early in that journey, and I’m comfortable saying that plainly.
 
 ---
 
+## Web & Digital Product Development
+
+Web development is a major part of my work.
+
+I build websites and digital products as **real systems**, not just pages that happen to look good.
+
+For me, the web is one of the places where strategy, story, design, engineering, conversion, accessibility, performance, and operations all have to meet.
+
+Through **form.digital** and my broader product work, I spend a lot of time on:
+
+- full-stack web applications
+- websites and digital platforms
+- product architecture
+- responsive UI systems
+- frontend engineering
+- backend services and APIs
+- integrations and workflow automation
+- accessibility and performance
+- deployment and production hardening
+- design systems and reusable component architecture
+
+A website should make the organization behind it feel clearer, more trustworthy, and easier to engage — not simply more impressive.
+
+---
+
+## Creative & Marketing
+
+I also lead **form.creative & marketing**, our creative and marketing agency.
+
+Creative work is not separate from how I think about systems. It is another way people experience an organization.
+
+We work across **brand identity, creative direction, campaigns, content, design, video, social, digital experiences, marketing strategy, and the systems that help creative teams execute consistently.**
+
+The work I care about most is not decoration. It is understanding what someone is trying to say, who they are trying to reach, what people should feel, and then building a world around that idea that is coherent enough to be recognized and human enough to be trusted.
+
+> **We create worlds. Not just the content inside them.**
+
+That is also why I care so much about the connection between creative and technology. A strong brand should survive the transition from strategy to design to website to product to campaign to real human interaction without losing itself along the way.
+
+---
+
 ## How I Think About Architecture
 
-My work crosses a few traditional role boundaries because real problems usually do too.
+My work crosses traditional role boundaries because real problems usually do too.
 
-| Architecture | Engineering | Intelligence | Operations |
+| Architecture | Engineering | Intelligence | Creative & Experience |
 | --- | --- | --- | --- |
-| Solutions Architecture | Product Engineering | AI Systems | Workflow Design |
-| Software Architecture | Full-Stack Development | Agentic Architecture | Process Automation |
-| Systems Architecture | API Development | Model Orchestration | Enterprise Workflows |
-| Integration Architecture | Platform Engineering | RAG & Context Systems | Operational Design |
-| Technical Strategy | Prototyping | Tool-Using Agents | Systems Integration |
+| Solutions Architecture | Product Engineering | AI Systems | Creative Direction |
+| Software Architecture | Full-Stack Development | Agentic Architecture | Brand Systems |
+| Systems Architecture | API Development | Model Orchestration | Digital Experience |
+| Integration Architecture | Platform Engineering | RAG & Context Systems | Marketing Systems |
+| Technical Strategy | Prototyping | Tool-Using Agents | Experience Design |
 
 I’m usually thinking about more than whether something *can* be built.
 
-I’m thinking about whether it should be built this way, who has to live with it afterward, where responsibility sits, what happens when it fails, how people know what to trust, and whether the system gets better as the organization grows.
+I’m thinking about whether it should be built this way, who has to live with it afterward, what the experience communicates, where responsibility sits, what happens when it fails, how people know what to trust, and whether the whole thing gets stronger as the organization grows.
 
 ---
 
@@ -195,13 +225,15 @@ It is what happens when you give intelligence the right **context, tools, memory
 
 ## The Work Beneath the Work
 
-Most of what I care about is bigger than a single app or feature.
+Most of what I care about is bigger than a single app, campaign, website, or feature.
 
 When I’m building, I’m usually asking questions like:
 
 - What is actually making this hard for the people doing the work?
+- What are we really trying to communicate?
+- What should someone feel when they encounter this?
 - What information keeps getting lost between people or systems?
-- Where is trust being spent because the process is unclear?
+- Where is trust being spent because the experience is unclear?
 - What should a human own because judgment or relationship matters?
 - What should the system carry because a person shouldn’t have to?
 - Where can AI create leverage without quietly taking away accountability?
@@ -229,9 +261,9 @@ How should agents reason, use tools, hand work off, learn, escalate, communicate
 
 What does it take to move from orchestrating frontier models to building an intelligence platform — and eventually an LLM — with its own durable capabilities?
 
-### Operational intelligence
+### Connected digital experiences
 
-How can software understand enough about the real organization around the data to be genuinely useful to the people inside it?
+How do brand, content, product, web, marketing, data, and operations stay coherent enough that a person experiences one organization instead of six disconnected departments?
 
 ---
 
@@ -239,23 +271,25 @@ How can software understand enough about the real organization around the data t
 
 **Good systems should create clarity, not dependence.**
 
+**Good creative should make people feel understood, not manipulated.**
+
 **AI should increase human capacity, not erase human value.**
 
 **Automation should remove unnecessary work, not meaningful responsibility.**
 
+**A beautiful experience that does not work is unfinished. A system that works but has no humanity is unfinished too.**
+
 **People need context, trust, ownership, and room to exercise judgment.**
 
-**Technology is at its best when the people using it feel more capable — not smaller.**
-
-That’s the kind of technology I want to keep building.
+That’s the kind of work I want to keep building.
 
 ---
 
 <div align="center">
 
-### Building intelligent systems without losing the human beings inside them.
+### Building intelligent systems, useful products, and meaningful experiences without losing the human beings inside them.
 
 **form.**  
-people · systems · software · intelligence · execution
+people · creativity · systems · software · intelligence · execution
 
 </div>
