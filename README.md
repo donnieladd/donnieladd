@@ -79,9 +79,9 @@ The long-term direction is an LLM and intelligence platform, not just another as
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">form.digital | Web & Full-Stack App Development</h3>
+<h3 align="center">form.digital</h3>
 
-Web development is a major part of my work.
+Web and full-stack development are a major part of my work through form.digital.
 
 I build websites, full-stack applications, digital platforms, APIs, integrations, design systems, and production-ready experiences where strategy, story, design, engineering, and performance all have to work together.
 
