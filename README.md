@@ -56,11 +56,11 @@ I want form. to be able to see that whole picture and help build what is missing
 </td>
 <td width="50%" valign="top">
 
-### Form HQ
+### form. | HQ
 
 **This is the build I’m deepest in right now.**
 
-Form HQ is where I’m working through what a real hybrid human + AI organization should look and feel like day to day.
+form. | HQ is where I’m working through what a real hybrid human + AI organization should look and feel like day to day.
 
 Not humans serving the machine.  
 Not agents pretending to be people.  
@@ -292,8 +292,5 @@ That’s the kind of work I want to keep building.
 ## VISION NEEDS STRUCTURE
 
 ### the future needs form.
-
-**form.**  
-people · creativity · systems · software · intelligence · execution
 
 </div>
