@@ -120,7 +120,7 @@ The goal is coherence. The brand, website, product, campaign, and real human exp
 
 ## How I think about the work?
 
-**People · Creativity · Process · Data · Software · Intelligence**
+**People · Creativity · Process · Data · Technology · Intelligence**
 
 </div>
 
