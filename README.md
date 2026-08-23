@@ -83,9 +83,11 @@ The point is not more leads. It is better intelligence, better timing, and a sys
 
 ### Allen
 
-Allen is the intelligence identity I’m developing across the form. ecosystem.
+Allen is the intelligence identity I’m developing across the form. ecosystem: an agent, an intelligence platform, and a longer-term model direction.
 
-I’m teaching it to inspect software, use tools, gather evidence, diagnose problems, retain useful context, coordinate work, and improve through feedback. The interesting part is not the personality. It is the system around the intelligence: memory, tools, authority, execution, observability, and the boundaries that make useful autonomy possible.
+I’m teaching it to inspect software, use tools, gather evidence, review code, diagnose and debug problems, retain useful context, coordinate work, and improve through feedback. I am also pushing deeper into the security side of software and AI systems: code review, vulnerability-aware analysis, production diagnosis, and safer autonomous execution.
+
+The interesting part is not the personality. It is the system around the intelligence: memory, retrieval, tools, authority, execution, observability, and the boundaries that make useful autonomy possible.
 
 </div>
 
@@ -116,9 +118,9 @@ Strategy, operations, technology, AI, people, and process are rarely separate pr
 
 <strong>Websites · Applications · AI & Automation</strong>
 
-We design and build the technology organizations need to move.
+We design, build, and harden the technology organizations need to move.
 
-That includes websites, full-stack applications, internal tools, AI systems, intelligent workflows, APIs, integrations, automation, and the infrastructure required to ship them well.
+That includes websites, full-stack applications, internal tools, AI systems, intelligent workflows, APIs, integrations, automation, and the infrastructure required to ship them well. We are also building deeper capability around AI-assisted code review, debugging, security review, production diagnosis, and hardening software that works in a demo but is not yet ready for the real world.
 
 </td>
 </tr>
@@ -208,11 +210,14 @@ A few questions keep me honest:
 ### Data, Infrastructure & Deployment
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=111111)
+![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=flat-square&logo=redis&logoColor=111111)
 ![Supabase](https://img.shields.io/badge/Supabase-FFFFFF?style=flat-square&logo=supabase&logoColor=111111)
 ![Railway](https://img.shields.io/badge/Railway-FFFFFF?style=flat-square&logo=railway&logoColor=111111)
 ![Vercel](https://img.shields.io/badge/Vercel-FFFFFF?style=flat-square&logo=vercel&logoColor=111111)
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=111111)
 ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=111111)
+
+`PostgreSQL` · `pgvector` · `Redis` · `Supabase` · `Railway` · `Vercel` · `GitHub` · `Docker`
 
 </div>
 
@@ -230,7 +235,15 @@ I do not build around one model company. Different kinds of work need different 
 
 **Agentic systems & runtime tooling**
 
-`OpenClaw` · `Hermes Agent` · `LangGraph` · `MCP` · `OpenRouter` · `Tool Use` · `Agent Orchestration` · `Model Routing` · `RAG` · `Memory Systems` · `Context Engineering`
+`OpenClaw` · `Hermes Agent` · `LangGraph` · `MCP` · `OpenRouter` · `Tool Use` · `Agent Orchestration` · `Model Routing`
+
+**Memory, retrieval & context**
+
+`RAG` · `Vector Embeddings` · `pgvector` · `Semantic Search` · `Persistent Memory` · `GBrain` · `Memory Systems` · `Context Engineering`
+
+**Code intelligence & system reliability**
+
+`AI Code Review` · `Debugging` · `Security Review` · `Production Diagnosis` · `Software Hardening` · `Evaluation`
 
 **Execution & infrastructure direction**
 
