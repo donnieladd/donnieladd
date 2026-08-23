@@ -48,11 +48,9 @@ That intersection is where I do my best work.
 
 My primary company and long-term technology platform.
 
-Building products, infrastructure, services, and intelligent systems around a central question:
+I’m building form. around a larger idea: organizations should not have to bolt intelligence onto broken workflows. **The operating model, software, data, automation, and AI should be designed as one system.**
 
-**How should organizations operate when intelligence becomes part of the architecture?**
-
-Current areas of exploration include:
+Current work spans:
 
 - AI-native software
 - enterprise systems
@@ -66,28 +64,44 @@ Current areas of exploration include:
 </td>
 <td width="50%" valign="top">
 
-### Allen
+### Form HQ
 
-An agent and intelligence platform I’m actively training and building toward a larger ambition: **a full LLM + platform experience in the class of systems like Claude — but with its own architecture, identity, tools, memory, learning loops, and execution model.**
+**My primary active build right now.**
 
-Allen is still early, but the foundation is already taking shape around:
+Form HQ is becoming the operating environment for a hybrid human + AI organization — a system where persistent AI employees and human teams can share work, context, tools, authority, accountability, and organizational state.
 
-- model-agnostic reasoning
-- agentic diagnosis and tool use
-- repository and software inspection
-- multi-stack runtime understanding
-- persistent evidence and memory
-- learning loops
-- secure execution boundaries
-- human-facing platform experiences
+The architecture is designed around clear ownership:
 
-The long-term goal is not another wrapper around existing models.
+- employees own accountability
+- Monday owns work
+- Slack owns communication
+- Postgres owns organizational state
+- LangGraph owns orchestration
+- models provide intelligence
+- tools provide action
+- memory provides continuity
+- governance controls authority
+- evaluation measures performance
 
-**Allen is being developed as an intelligence system of its own.**
+The goal is not a demo multi-agent system.
+
+**It is an actual workforce operating system.**
 
 </td>
 </tr>
 </table>
+
+### Allen
+
+Allen is the intelligence system I’m training and developing alongside that work.
+
+It has already begun as an agentic software intelligence platform capable of inspecting repositories, understanding multiple application stacks, booting and interrogating software, gathering evidence, using tools, diagnosing failures through bounded model-driven reasoning, and learning from prior outcomes.
+
+The longer-term ambition is substantially larger: **Allen as both an LLM and a complete intelligence platform — closer in category to systems like Claude than to a conventional assistant or model wrapper.**
+
+That means developing toward its own durable architecture for reasoning, memory, tools, learning, execution, safety, and eventually model capability.
+
+Allen is early. I’m building it deliberately.
 
 ---
 
@@ -194,6 +208,10 @@ It is **better orchestration of human and machine capability.**
 
 ## Current Research & Build Focus
 
+### Hybrid human + AI organizations
+
+How do you build a real operating environment where human employees and persistent AI employees can share organizational context, work, tools, authority, accountability, and learning without collapsing everything into a chatbot interface?
+
 ### AI-native architecture
 
 What changes when intelligence is designed into the system from the beginning rather than attached to an existing product afterward?
@@ -205,10 +223,6 @@ How should agents reason, route work, use tools, collaborate, maintain context, 
 ### Allen
 
 How do you move from orchestrating frontier models to building an intelligence platform with its own durable reasoning architecture, learning systems, tool environment, model strategy, safety boundaries, and eventually its own LLM capability?
-
-### Human + AI systems
-
-Where should humans remain directly involved? Where should software execute automatically? Where should AI assist rather than act?
 
 ### Operational intelligence
 
@@ -234,7 +248,7 @@ Build and architecture documentation.
 
 Product and engineering experimentation.
 
-> Much of my active product, AI, infrastructure, Allen, and client work currently lives in private repositories.
+> Much of my active work — including Form HQ, Allen, AI infrastructure, internal systems, and client builds — currently lives in private repositories.
 
 ---
 
