@@ -8,11 +8,11 @@
 
 # Dontae Ladson
 
-### Founder & Solutions Architect · Form Intel
+### AI Systems & Solutions Architect · Founder, form.
 
-*I turn vision into structure, then build what the structure needs to function.*
+*I architect and build intelligent systems across AI, software, automation, operations, and human workflows.*
 
-Full-Stack Development · Web · AI · Automation · Creative · Marketing · Systems • Infrastructure
+AI Systems · Agentic Architecture · Full-Stack Development · Automation · Systems & Solutions Architecture · Digital Experience
 
 [form.](https://formintel.co) · [GitHub](https://github.com/donnieladd)
 
@@ -22,13 +22,13 @@ Full-Stack Development · Web · AI · Automation · Creative · Marketing · Sy
 
 ## A little about me
 
-I came into technology through people, creativity, and systems.
+I came into technology through people, creativity, leadership, and systems.
 
-A lot of the work I care about started the same way: someone had a strong vision, but the tools, process, ownership, or experience around it were making the work harder than it needed to be.
+A lot of the work I care about starts the same way: someone has a strong vision, but the tools, processes, ownership, technology, or experience around it are making the work harder than it needs to be.
 
 So I learned to build across the gaps.
 
-Sometimes that means architecture or code. Sometimes it means a website, workflow, brand system, campaign, AI agent, product, or operating model.
+Sometimes that means architecture or code. Sometimes it means redesigning a workflow, building an AI system, creating a digital product, rethinking an operating model, or helping a team understand how the pieces should work together.
 
 The medium changes. The standard does not. **It should work, make sense, and leave people better supported than they were before.**
 
@@ -44,11 +44,11 @@ Relational equity matters to me. If people cannot trust the system, understand i
 
 <div align="center">
 
-## What I’m building
+## What I’m building right now
 
 **form. is the company I’m building for the long term.**
 
-We work where strategy, systems, software, AI, digital, creative, marketing, and operations overlap. That is usually where the real work is.
+Right now, I am deepest in two systems: the operating environment that helps us run the company and the revenue engine that helps us find the right work.
 
 </div>
 
@@ -58,22 +58,22 @@ We work where strategy, systems, software, AI, digital, creative, marketing, and
 
 <h3 align="center">form. | HQ</h3>
 
-This is the build I’m deepest in right now.
+form. | HQ is a hybrid human + AI workforce operating system built around persistent employee identity, shared context, memory, tools, authority, approvals, accountability, observability, and real work.
 
-form. | HQ is a hybrid human + AI workforce operating system built around clear roles, shared context, memory, tools, authority, accountability, and handoffs.
+The next evolution separates the employee from the machine: persistent AI employees with isolated, elastic execution environments issued when the work requires them.
 
-I want people and AI to be able to work together without making the organization feel less human.
+The goal is not to make an organization less human. It is to let people keep judgment while systems carry the weight they should carry.
 
 </td>
 <td width="50%" valign="top">
 
 <h3 align="center">form. | leads</h3>
 
-form. | leads is a lead generation and qualification system for form.digital.
+form. | leads is the pipeline and lead intelligence system we are building for form.
 
-It finds businesses that may need a stronger digital presence, researches and scores the opportunity with AI, syncs qualified leads into Monday.com, and supports outreach through Gmail.
+It discovers opportunities, researches and scores them with AI, helps qualify fit, coordinates the work around outreach, and creates a cleaner path from market signal to human action.
 
-The point is a cleaner path from discovery to action.
+The point is not more leads. It is better intelligence, better timing, and a system that helps us act on the right opportunities.
 
 </td>
 </tr>
@@ -83,11 +83,9 @@ The point is a cleaner path from discovery to action.
 
 ### Allen
 
-Allen is the agent I’m training and the intelligence platform I’m beginning to build.
+Allen is the intelligence identity I’m developing across the form. ecosystem.
 
-It is early, but real. I’m teaching it to inspect software, use tools, gather evidence, diagnose problems, remember outcomes, and improve over time.
-
-Long term, I want Allen to grow beyond an assistant into its own LLM and intelligence platform.
+I’m teaching it to inspect software, use tools, gather evidence, diagnose problems, retain useful context, coordinate work, and improve through feedback. The interesting part is not the personality. It is the system around the intelligence: memory, tools, authority, execution, observability, and the boundaries that make useful autonomy possible.
 
 </div>
 
@@ -95,7 +93,7 @@ Long term, I want Allen to grow beyond an assistant into its own LLM and intelli
 
 <div align="center">
 
-## How I build with form.?
+## How we work at form.
 
 </div>
 
@@ -103,22 +101,48 @@ Long term, I want Allen to grow beyond an assistant into its own LLM and intelli
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">form.digital</h3>
+<h3 align="center">form.strategy</h3>
 
-We build websites, full-stack applications, internal tools, digital platforms, APIs, integrations, design systems, automation, and the infrastructure needed to ship them well.
+<strong>Systems & Solutions Architecture</strong>
 
-I care about the whole experience: strategy, UX, accessibility, performance, data, deployment, and what the product has to do for the organization after launch.
+We figure out what needs to change and architect how it should work.
+
+Strategy, operations, technology, AI, people, and process are rarely separate problems. We look at the whole system, identify what is getting in the way, and design the future-state architecture and implementation path.
 
 </td>
 <td width="50%" valign="top">
 
+<h3 align="center">form.digital</h3>
+
+<strong>Websites · Applications · AI & Automation</strong>
+
+We design and build the technology organizations need to move.
+
+That includes websites, full-stack applications, internal tools, AI systems, intelligent workflows, APIs, integrations, automation, and the infrastructure required to ship them well.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <h3 align="center">form.creative & marketing</h3>
 
-**We create worlds. Not just the content inside them.**
+<strong>Creative · Marketing · Communications</strong>
 
-I lead our creative and marketing agency across brand identity, creative direction, campaigns, content, design, video, social, digital experiences, and marketing strategy.
+We build coherent brands, campaigns, content, communications, and experiences, with specialized creative and marketing partnerships for churches and ministries.
 
-The goal is coherence. The brand, website, product, campaign, and real human experience should all feel like the same organization.
+The goal is not more content. It is a clearer organization, a stronger story, and creative work that actually moves people.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">form.learning</h3>
+
+<strong>AI Enablement & Learning</strong>
+
+We teach people and organizations how to actually work with AI.
+
+Practical workshops, executive education, role-based training, and organizational enablement built around the work people already do. Not AI theory. Real work, real workflows, real adoption.
 
 </td>
 </tr>
@@ -128,7 +152,7 @@ The goal is coherence. The brand, website, product, campaign, and real human exp
 
 <div align="center">
 
-## How I think about the work?
+## How I think about the work
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/form-thinking-strip-dark.svg">
@@ -148,6 +172,7 @@ A few questions keep me honest:
 - Can people trust it?
 - Are we asking a person to carry something the system should carry?
 - Are we asking the system to make a judgment a person should own?
+- Can this survive production, not just the demo?
 
 ---
 
@@ -207,9 +232,13 @@ I do not build around one model company. Different kinds of work need different 
 
 `OpenClaw` · `Hermes Agent` · `LangGraph` · `MCP` · `OpenRouter` · `Tool Use` · `Agent Orchestration` · `Model Routing` · `RAG` · `Memory Systems` · `Context Engineering`
 
+**Execution & infrastructure direction**
+
+`Docker` · `Kubernetes` · `Isolated Workstations` · `Elastic Compute` · `Workload Scheduling` · `Observability` · `Governed Execution`
+
 </div>
 
-What interests me most is not the benchmark. It is what happens when intelligence has the right context, tools, memory, boundaries, feedback, and a healthy relationship with the people using it.
+What interests me most is not the benchmark. It is what happens when intelligence has the right context, tools, memory, boundaries, execution environment, feedback, and a healthy relationship with the people using it.
 
 ---
 
