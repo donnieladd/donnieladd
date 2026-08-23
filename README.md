@@ -2,7 +2,7 @@
 
 # Dontae Ladson
 
-### Solutions Architect · Founder, form.
+### Founder & Principal Solutions Architect · Form Intel
 
 **I build systems, products, brands, and experiences that help people move from vision to something real.**
 
