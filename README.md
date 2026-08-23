@@ -4,6 +4,8 @@
 
 ### Founder & Principal Solutions Architect · Form Intel
 
+## VISION NEEDS STRUCTURE
+
 **I build systems, products, brands, and experiences that help people move from vision to something real.**
 
 Software, web development, AI, automation, creative, marketing, operations — those are different parts of the work.  
@@ -287,7 +289,9 @@ That’s the kind of work I want to keep building.
 
 <div align="center">
 
-### Building intelligent systems, useful products, and meaningful experiences without losing the human beings inside them.
+## VISION NEEDS STRUCTURE
+
+### the future needs form.
 
 **form.**  
 people · creativity · systems · software · intelligence · execution
