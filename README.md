@@ -66,26 +66,24 @@ Current areas of exploration include:
 </td>
 <td width="50%" valign="top">
 
-### ladson ai
+### Allen
 
-A private intelligence and execution environment built around the way I think, work, lead, and build.
+An agent and intelligence platform I’m actively training and building toward a larger ambition: **a full LLM + platform experience in the class of systems like Claude — but with its own architecture, identity, tools, memory, learning loops, and execution model.**
 
-The thesis:
+Allen is still early, but the foundation is already taking shape around:
 
-**Your mind should remain focused on thinking.  
-The system should handle the execution layer.**
+- model-agnostic reasoning
+- agentic diagnosis and tool use
+- repository and software inspection
+- multi-stack runtime understanding
+- persistent evidence and memory
+- learning loops
+- secure execution boundaries
+- human-facing platform experiences
 
-It explores:
+The long-term goal is not another wrapper around existing models.
 
-- persistent context
-- memory
-- agent orchestration
-- tools
-- workflows
-- domain intelligence
-- model routing
-- personal computing
-- human + AI collaboration
+**Allen is being developed as an intelligence system of its own.**
 
 </td>
 </tr>
@@ -204,6 +202,10 @@ What changes when intelligence is designed into the system from the beginning ra
 
 How should agents reason, route work, use tools, collaborate, maintain context, escalate decisions, and operate under explicit authority?
 
+### Allen
+
+How do you move from orchestrating frontier models to building an intelligence platform with its own durable reasoning architecture, learning systems, tool environment, model strategy, safety boundaries, and eventually its own LLM capability?
+
 ### Human + AI systems
 
 Where should humans remain directly involved? Where should software execute automatically? Where should AI assist rather than act?
@@ -211,10 +213,6 @@ Where should humans remain directly involved? Where should software execute auto
 ### Operational intelligence
 
 How can software understand not only information, but the organization, workflow, policies, goals, responsibilities, dependencies, and decisions surrounding that information?
-
-### Personal computing
-
-What does computing look like when the interface understands the user deeply enough to become an execution environment rather than another collection of apps?
 
 ---
 
@@ -232,15 +230,11 @@ Public documentation supporting the form. ecosystem.
 
 Build and architecture documentation.
 
-### [ladson-ai-ui-ux-v2](https://github.com/donnieladd/ladson-ai-ui-ux-v2)
-
-Public UI/UX exploration related to ladson ai.
-
 ### [quiver-clone](https://github.com/donnieladd/quiver-clone)
 
 Product and engineering experimentation.
 
-> Much of my active product, AI, infrastructure, and client work currently lives in private repositories.
+> Much of my active product, AI, infrastructure, Allen, and client work currently lives in private repositories.
 
 ---
 
