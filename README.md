@@ -6,7 +6,7 @@
 
 ### Founder & Solutions Architect · Form Intel
 
-**I build systems, products, brands, and experiences that help people move from vision to something real.**
+**I help turn vision into structure, then build what that structure needs.**
 
 Full-Stack Development · Web · AI · Automation · Creative · Marketing · Systems • Infrastructure
 
@@ -20,15 +20,17 @@ Full-Stack Development · Web · AI · Automation · Creative · Marketing · Sy
 
 I came into technology through people, creativity, and systems.
 
-I kept seeing good people with strong ideas fighting through bad tools, disconnected processes, unclear ownership, and experiences that did not match the vision. So I started building.
+A lot of the work I care about started the same way: someone had a strong vision, but the tools, process, ownership, or experience around it were making the work harder than it needed to be.
 
-Sometimes that looks like software. Sometimes it is a website, brand system, campaign, workflow, AI agent, product, or operating model. The medium changes. The goal does not.
+So I learned to build across the gaps.
 
-**Make the work clearer, stronger, and more human.**
+Sometimes that means architecture or code. Sometimes it means a website, workflow, brand system, campaign, AI agent, product, or operating model.
+
+The medium changes. The standard does not. **It should work, make sense, and leave people better supported than they were before.**
 
 > **I build around people, not people around systems.**
 
-Relational equity matters to me. I care about whether the thing works, but I also care whether people trust it, understand it, and feel considered by it.
+Relational equity matters to me. If people cannot trust the system, understand it, or see themselves in it, I do not consider the work finished.
 
 ---
 
@@ -38,7 +40,7 @@ Relational equity matters to me. I care about whether the thing works, but I als
 
 **form. is the company I’m building for the long term.**
 
-We work across strategy, systems, software, AI, digital, creative, marketing, and operations. I care about seeing the whole picture and building what actually needs to exist.
+We work where strategy, systems, software, AI, digital, creative, marketing, and operations overlap. That is usually where the real work is.
 
 </div>
 
@@ -50,18 +52,20 @@ We work across strategy, systems, software, AI, digital, creative, marketing, an
 
 This is the build I’m deepest in right now.
 
-A hybrid human + AI workforce operating system where people and persistent AI employees can share work, context, tools, authority, memory, and accountability.
+form. | HQ is a hybrid human + AI workforce operating system built around clear roles, shared context, memory, tools, authority, accountability, and handoffs.
 
-The goal is simple: make work clearer without making the organization less human.
+I want people and AI to be able to work together without making the organization feel less human.
 
 </td>
 <td width="50%" valign="top">
 
 <h3 align="center">form. | leads</h3>
 
-A lead generation system I’m building for form.digital.
+form. | leads is a lead generation and qualification system for form.digital.
 
-It discovers businesses that may need a stronger website, researches and qualifies them with AI, scores the opportunity, syncs the lead into Monday.com, and supports outreach through Gmail.
+It finds businesses that may need a stronger digital presence, researches and scores the opportunity with AI, syncs qualified leads into Monday.com, and supports outreach through Gmail.
+
+The point is a cleaner path from discovery to action.
 
 </td>
 </tr>
@@ -73,9 +77,9 @@ It discovers businesses that may need a stronger website, researches and qualifi
 
 Allen is the agent I’m training and the intelligence platform I’m beginning to build.
 
-It is early, but real. I’m teaching it to inspect software, use tools, gather evidence, diagnose problems, remember what happened, and get better over time.
+It is early, but real. I’m teaching it to inspect software, use tools, gather evidence, diagnose problems, remember outcomes, and improve over time.
 
-The long-term direction is an LLM and intelligence platform, not just another assistant wrapper.
+Long term, I want Allen to grow beyond an assistant into its own LLM and intelligence platform.
 
 </div>
 
@@ -93,11 +97,11 @@ The long-term direction is an LLM and intelligence platform, not just another as
 
 <h3 align="center">form.digital</h3>
 
-**Web & Full-Stack Development** sits at the center of the work.
+**Web & Full-Stack Development** is a major part of my work through form.digital.
 
-I build websites, full-stack applications, internal tools, digital platforms, APIs, integrations, design systems, automation, and production-ready infrastructure.
+We build websites, full-stack applications, internal tools, digital platforms, APIs, integrations, design systems, automation, and the infrastructure needed to ship them well.
 
-The goal is not just to ship code. Strategy, UX, performance, accessibility, data, deployment, and the way the product supports the organization all have to work together.
+I care about the whole experience: strategy, UX, accessibility, performance, data, deployment, and what the product has to do for the organization after launch.
 
 </td>
 <td width="50%" valign="top">
@@ -108,7 +112,7 @@ The goal is not just to ship code. Strategy, UX, performance, accessibility, dat
 
 I lead our creative and marketing agency across brand identity, creative direction, campaigns, content, design, video, social, digital experiences, and marketing strategy.
 
-The brand, the product, the website, the campaign, and the human interaction should feel like they came from the same place.
+The goal is coherence. The brand, website, product, campaign, and real human experience should all feel like the same organization.
 
 </td>
 </tr>
@@ -124,15 +128,16 @@ The brand, the product, the website, the campaign, and the human interaction sho
 
 </div>
 
-I move across disciplines because real problems usually do too. I may be thinking about architecture, code, customer experience, brand, workflow, data, or leadership in the same build.
+I move across disciplines because the work does not stay in one lane. Architecture affects experience. Brand affects trust. Data affects decisions. Systems affect people.
 
-The questions I keep coming back to are simple:
+A few questions keep me honest:
 
-- Does this make the work easier to understand?
+- Does this make the work clearer?
 - Does it help people do better work?
 - Is ownership clear?
 - Can people trust it?
-- Does the technology serve the relationship, or get in the way of it?
+- Are we asking a person to carry something the system should carry?
+- Are we asking the system to make a judgment a person should own?
 
 ---
 
@@ -182,7 +187,7 @@ The questions I keep coming back to are simple:
 
 ## AI & Intelligence
 
-I do not build around one model company. Different models are useful for different kinds of work.
+I do not build around one model company. Different kinds of work need different strengths.
 
 **Models & ecosystems**
 
@@ -194,7 +199,7 @@ I do not build around one model company. Different models are useful for differe
 
 </div>
 
-What interests me most is not which model wins a benchmark. It is what happens when intelligence has the right context, tools, memory, boundaries, feedback, and relationship with the people using it.
+What interests me most is not the benchmark. It is what happens when intelligence has the right context, tools, memory, boundaries, feedback, and a healthy relationship with the people using it.
 
 ---
 
