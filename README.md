@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/form-profile-hero.jpg" width="340" alt="form. artwork">
-
 # Dontae Ladson
 
 ### Founder & Solutions Architect · Form Intel
@@ -96,8 +94,6 @@ Long term, I want Allen to grow beyond an assistant into its own LLM and intelli
 <td width="50%" valign="top">
 
 <h3 align="center">form.digital</h3>
-
-**Web & Full-Stack Development** is a major part of my work through form.digital.
 
 We build websites, full-stack applications, internal tools, digital platforms, APIs, integrations, design systems, automation, and the infrastructure needed to ship them well.
 
@@ -204,8 +200,6 @@ What interests me most is not the benchmark. It is what happens when intelligenc
 ---
 
 <div align="center">
-
-<img src="./assets/form-vision-structure.jpg" width="430" alt="form. vision artwork">
 
 ## VISION NEEDS STRUCTURE
 
