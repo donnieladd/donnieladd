@@ -4,11 +4,11 @@
 
 # Dontae Ladson
 
-### Founder & Principal Solutions Architect · Form Intel
+### Founder & Solutions Architect · Form Intel
 
 **I build systems, products, brands, and experiences that help people move from vision to something real.**
 
-Software · Web Development · AI · Automation · Creative · Marketing · Operations
+Full-Stack Development · Web · AI · Automation · Creative · Marketing · Systems • Infrastructure
 
 [form.](https://formintel.co) · [GitHub](https://github.com/donnieladd)
 
@@ -79,7 +79,7 @@ The long-term direction is an LLM and intelligence platform, not just another as
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">form.digital</h3>
+<h3 align="center">form.digital | Web & Full-Stack App Development</h3>
 
 Web development is a major part of my work.
 
