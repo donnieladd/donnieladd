@@ -8,7 +8,7 @@
 
 # Dontae Ladson
 
-### AI Systems & Solutions Architect · Founder, form.
+<img src="./assets/profile-subtitle-gray.svg" width="620" alt="AI Systems & Solutions Architect · Founder, form.">
 
 *I architect and build intelligent systems across AI, software, automation, operations, and human workflows.*
 
@@ -20,7 +20,9 @@ AI Systems · Agentic Architecture · Full-Stack Development · Automation · Sy
 
 ---
 
-## A little about me
+<div align="center">
+<img src="./assets/heading-about-gray.svg" width="300" alt="A little about me">
+</div>
 
 I came into technology through people, creativity, leadership, and systems.
 
@@ -46,9 +48,9 @@ Relational equity matters to me. If people cannot trust the system, understand i
 
 <div align="center">
 
-## What I’m building right now
+<img src="./assets/heading-building-gray.svg" width="390" alt="What I’m building right now">
 
-**form. is the company I’m building for the long term.**
+Looking back, I’ve been building pieces of **form.** my whole career without knowing that was what I was doing. Music taught me how to build experiences and teams. Leadership taught me how to care for people and carry responsibility. Creative work taught me how to shape ideas. Operations taught me how to make them repeatable. Technology gave me a way to connect all of it. Now I’m taking those skills, instincts, and lessons and building the company they were pointing toward.
 
 Right now, I am deepest in two systems: the operating environment that helps us run the company and the revenue engine that helps us find the right work.
 
@@ -107,7 +109,7 @@ The interesting part is not the personality. It is the system around the intelli
 
 <h3 align="center">form.strategy</h3>
 
-<strong>Systems & Solutions Architecture</strong>
+<p align="center"><em>Systems & Solutions Architecture</em></p>
 
 We figure out what needs to change and architect how it should work.
 
@@ -118,7 +120,7 @@ Strategy, operations, technology, AI, people, and process are rarely separate pr
 
 <h3 align="center">form.digital</h3>
 
-<strong>Websites · Applications · AI & Automation</strong>
+<p align="center"><em>Websites · Applications · AI & Automation</em></p>
 
 We design, build, and harden the technology organizations need to move.
 
@@ -133,7 +135,7 @@ We also help with the part that comes after the first build: code review, debugg
 
 <h3 align="center">form.creative & marketing</h3>
 
-<strong>Creative · Marketing · Communications</strong>
+<p align="center"><em>Creative · Marketing · Communications</em></p>
 
 We build coherent brands, campaigns, content, communications, and experiences, with specialized creative and marketing partnerships for churches and ministries.
 
@@ -144,9 +146,9 @@ The goal is not more content. It is a clearer organization, a stronger story, an
 
 <h3 align="center">form.learning</h3>
 
-<strong>AI Enablement & Learning</strong>
+<p align="center"><em>AI Enablement & Learning</em></p>
 
-We teach people and organizations how to actually work with AI.
+We teach people and organizations how to actually use AI in their work, then help teams turn that learning into real adoption.
 
 Practical workshops, executive education, role-based training, and organizational enablement built around the work people already do. Not AI theory. Real work, real workflows, real adoption.
 
@@ -161,9 +163,9 @@ Practical workshops, executive education, role-based training, and organizationa
 ## How I think about the work
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/form-thinking-strip-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/form-thinking-strip-light.svg">
-  <img src="./assets/form-thinking-strip-light.svg" width="760" alt="People, Creativity, Process, Data, Technology, Intelligence">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/form-thinking-strip-gradient-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/form-thinking-strip-gradient.svg">
+  <img src="./assets/form-thinking-strip-gradient.svg" width="760" alt="People, Creativity, Process, Data, Technology, Intelligence">
 </picture>
 
 I move across disciplines because the work does not stay in one lane. Architecture affects experience. Brand affects trust. Data affects decisions. Systems affect people.
@@ -260,11 +262,15 @@ I do not build around one model company. Different kinds of work need different 
 
 </div>
 
-What interests me most is not the benchmark. It is what happens when intelligence has the right context, tools, memory, boundaries, execution environment, feedback, and a healthy relationship with the people using it.
+<div align="center">
+<img src="./assets/intelligence-quote-amber.svg" width="860" alt="What interests me most is not the benchmark. It is what happens when intelligence has the right context, tools, memory, boundaries, execution environment, feedback, and a healthy relationship with the people using it.">
+</div>
 
 ---
 
-## Security, Compliance & Reliability
+<div align="center">
+<img src="./assets/heading-security-gray.svg" width="430" alt="Security, Compliance & Reliability">
+</div>
 
 I care a lot about what happens **after something works the first time**.
 
@@ -278,13 +284,13 @@ I have also learned not to confuse a clean test suite with a healthy product.
 
 Some of the most useful lessons in my work have come from systems that passed every test and still failed when they met production. So I try to prove important controls against the environment they actually have to survive.
 
-**Build it. Test it. Break it. Fix it. Prove it. Then ship it.**
+<p align="center"><strong>Build it. Test it. Break it. Fix it. Prove it. Then ship it.</strong></p>
 
 `OWASP` · `NIST CSF 2.0` · `SOC 2 Technical Controls` · `ISO 27001` · `WCAG 2.2 AA` · `CAN-SPAM` · `IAM` · `RBAC` · `RLS` · `Secure SDLC` · `AI Security` · `Vulnerability Management` · `Reliability Engineering`
 
 <sub>Framework-aligned engineering is not the same as organizational certification. I use these standards to guide architecture, implementation, testing, and technical control evidence.</sub>
 
-### Security & Quality Tooling
+<img src="./assets/heading-security-tooling-gray.svg" width="350" alt="Security & Quality Tooling">
 
 `gitleaks` · `osv-scanner` · `pip-audit` · `npm audit` · `SBOM` · `CSP` · `HSTS` · `Security Headers` · `Dependency Auditing`
 
@@ -292,10 +298,6 @@ Some of the most useful lessons in my work have come from systems that passed ev
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/form-future-lockup-v4-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/form-future-lockup-v4-light.svg">
-  <img src="./assets/form-future-lockup-v4-light.svg" width="430" alt="VISION NEEDS STRUCTURE. the future needs form.">
-</picture>
+<img src="./assets/form-future-lockup-clean.svg" width="700" alt="VISION NEEDS STRUCTURE. the future needs form.">
 
 </div>
