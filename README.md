@@ -30,6 +30,8 @@ So I learned to build across the gaps.
 
 Sometimes that means architecture or code. Sometimes it means redesigning a workflow, building an AI system, creating a digital product, rethinking an operating model, or helping a team understand how the pieces should work together.
 
+**I like building the whole thing, not just the part people can see.**
+
 The medium changes. The standard does not. **It should work, make sense, and leave people better supported than they were before.**
 
 <div align="center">
@@ -85,7 +87,7 @@ The point is not more leads. It is better intelligence, better timing, and a sys
 
 Allen is the intelligence identity I’m developing across the form. ecosystem: an agent, an intelligence platform, and a longer-term model direction.
 
-I’m teaching it to inspect software, use tools, gather evidence, review code, diagnose and debug problems, retain useful context, coordinate work, and improve through feedback. I am also pushing deeper into the security side of software and AI systems: code review, vulnerability-aware analysis, production diagnosis, and safer autonomous execution.
+I’m teaching it to inspect software, use tools, gather evidence, review code, diagnose and debug problems, retain useful context, coordinate work, and improve through feedback. The inspection layer is intentionally cross-stack, because real software rarely arrives in one neat framework. I am also pushing deeper into security, production diagnosis, reliability, and safer autonomous execution.
 
 The interesting part is not the personality. It is the system around the intelligence: memory, retrieval, tools, authority, execution, observability, and the boundaries that make useful autonomy possible.
 
@@ -120,7 +122,9 @@ Strategy, operations, technology, AI, people, and process are rarely separate pr
 
 We design, build, and harden the technology organizations need to move.
 
-That includes websites, full-stack applications, internal tools, AI systems, intelligent workflows, APIs, integrations, automation, and the infrastructure required to ship them well. We are also building deeper capability around AI-assisted code review, debugging, security review, production diagnosis, and hardening software that works in a demo but is not yet ready for the real world.
+That includes websites, full-stack applications, internal tools, AI systems, intelligent workflows, APIs, integrations, automation, and the infrastructure required to ship them well.
+
+We also help with the part that comes after the first build: code review, debugging, security, production diagnosis, reliability, and hardening software that works in a demo but is not ready for the real world yet.
 
 </td>
 </tr>
@@ -202,10 +206,15 @@ A few questions keep me honest:
 ![React](https://img.shields.io/badge/React-D49A3A?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-D49A3A?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-D49A3A?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-D49A3A?style=flat-square&logo=django&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-D49A3A?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-D49A3A?style=flat-square&logo=framer&logoColor=white)
 
-`Next.js` · `React` · `Node.js` · `FastAPI` · `LangGraph` · `Tailwind CSS` · `Framer Motion`
+`Next.js` · `React` · `Node.js` · `FastAPI` · `Django` · `LangGraph` · `Celery` · `HTMX` · `SQLAlchemy` · `Drizzle` · `TanStack Query` · `Tailwind CSS` · `Framer Motion`
+
+### Testing & Quality
+
+`Playwright` · `Vitest` · `Storybook` · `axe-core` · `pytest` · `Go race detector` · `GitHub Actions`
 
 ### Data, Infrastructure & Deployment
 
@@ -217,7 +226,7 @@ A few questions keep me honest:
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=111111)
 ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=111111)
 
-`PostgreSQL` · `pgvector` · `Redis` · `Supabase` · `Railway` · `Vercel` · `GitHub` · `Docker`
+`PostgreSQL` · `pgvector` · `Redis` · `Supabase` · `Railway` · `Vercel` · `GitHub Actions` · `Docker` · `Gunicorn`
 
 </div>
 
@@ -241,9 +250,9 @@ I do not build around one model company. Different kinds of work need different 
 
 `RAG` · `Vector Embeddings` · `pgvector` · `Semantic Search` · `Persistent Memory` · `GBrain` · `Memory Systems` · `Context Engineering`
 
-**Code intelligence & system reliability**
+**Code intelligence, security & reliability**
 
-`AI Code Review` · `Debugging` · `Security Review` · `Production Diagnosis` · `Software Hardening` · `Evaluation`
+`AI Code Review` · `Debugging` · `Security Analysis` · `Production Diagnosis` · `Software Hardening` · `Adversarial Testing` · `Evaluation`
 
 **Execution & infrastructure direction**
 
@@ -252,6 +261,32 @@ I do not build around one model company. Different kinds of work need different 
 </div>
 
 What interests me most is not the benchmark. It is what happens when intelligence has the right context, tools, memory, boundaries, execution environment, feedback, and a healthy relationship with the people using it.
+
+---
+
+## Security, Compliance & Reliability
+
+I care a lot about what happens **after something works the first time**.
+
+A product can look finished and still be fragile underneath. I like getting into the parts people usually wait too long to think about. Who can access what? What happens when a dependency goes down? Does failed work recover safely? Can the system tell the truth about its own health? Can an AI agent do more than it should? If something goes wrong, can we actually trace what happened?
+
+That has pulled me deeper into security, compliance, reliability, and production engineering.
+
+I build with frameworks like **OWASP** and **NIST CSF 2.0** in mind, and I have mapped technical controls against **SOC 2** and **ISO 27001** requirements. My work has included identity and authorization architecture, row-level security, RBAC, audit trails, secrets management, prompt-injection defenses, dependency scanning, vulnerability remediation, rate limiting, secure headers, backup and restore testing, rollback planning, accessibility, and fault testing against running systems.
+
+I have also learned not to confuse a clean test suite with a healthy product.
+
+Some of the most useful lessons in my work have come from systems that passed every test and still failed when they met production. So I try to prove important controls against the environment they actually have to survive.
+
+**Build it. Test it. Break it. Fix it. Prove it. Then ship it.**
+
+`OWASP` · `NIST CSF 2.0` · `SOC 2 Technical Controls` · `ISO 27001` · `WCAG 2.2 AA` · `CAN-SPAM` · `IAM` · `RBAC` · `RLS` · `Secure SDLC` · `AI Security` · `Vulnerability Management` · `Reliability Engineering`
+
+<sub>Framework-aligned engineering is not the same as organizational certification. I use these standards to guide architecture, implementation, testing, and technical control evidence.</sub>
+
+### Security & Quality Tooling
+
+`gitleaks` · `osv-scanner` · `pip-audit` · `npm audit` · `SBOM` · `CSP` · `HSTS` · `Security Headers` · `Dependency Auditing`
 
 ---
 
