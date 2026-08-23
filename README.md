@@ -6,7 +6,14 @@
 
 **I help turn vision into structure, then build what that structure needs.**
 
-Full-Stack Development · Web · AI · Automation · Creative · Marketing · Systems • Infrastructure
+![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-2F6BFF?style=flat-square)
+![Web](https://img.shields.io/badge/Web-2F6BFF?style=flat-square)
+![AI](https://img.shields.io/badge/AI-2F6BFF?style=flat-square)
+![Automation](https://img.shields.io/badge/Automation-2F6BFF?style=flat-square)
+![Creative](https://img.shields.io/badge/Creative-D49A3A?style=flat-square)
+![Marketing](https://img.shields.io/badge/Marketing-D49A3A?style=flat-square)
+![Systems](https://img.shields.io/badge/Systems-2C2F36?style=flat-square)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-2C2F36?style=flat-square)
 
 [form.](https://formintel.co) · [GitHub](https://github.com/donnieladd)
 
@@ -120,7 +127,7 @@ The goal is coherence. The brand, website, product, campaign, and real human exp
 
 ## How I think about the work?
 
-**People · Creativity · Process · Data · Technology · Intelligence**
+<img src="./assets/form-thinking-strip.svg" width="760" alt="People, Creativity, Process, Data, Technology, Intelligence">
 
 </div>
 
@@ -141,39 +148,39 @@ A few questions keep me honest:
 
 ## Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-111111?style=flat-square&logo=ruby&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2F6BFF?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2F6BFF?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2F6BFF?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-2F6BFF?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-2F6BFF?style=flat-square&logo=rust&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-2F6BFF?style=flat-square&logo=ruby&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2F6BFF?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-2F6BFF?style=flat-square&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-2F6BFF?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2F6BFF?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2F6BFF?style=flat-square&logo=postgresql&logoColor=white)
 
-**Currently digging into:** `C++`
+![C++](https://img.shields.io/badge/Currently_digging_into-C%2B%2B-D49A3A?style=flat-square)
 
 ### Frameworks & Application Development
 
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-111111?style=flat-square&logo=framer&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-2F6BFF?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-2F6BFF?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2F6BFF?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2F6BFF?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2F6BFF?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-2F6BFF?style=flat-square&logo=framer&logoColor=white)
 
 `Next.js` · `React` · `Node.js` · `FastAPI` · `LangGraph` · `Tailwind CSS` · `Framer Motion`
 
 ### Data, Infrastructure & Deployment
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-111111?style=flat-square&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C2F36?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-2C2F36?style=flat-square&logo=supabase&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-2C2F36?style=flat-square&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-2C2F36?style=flat-square&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2C2F36?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2C2F36?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
