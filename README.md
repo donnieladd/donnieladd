@@ -65,10 +65,11 @@ It discovers businesses that may need a stronger website, researches and qualifi
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
+</table>
 
-<h3 align="center">Allen</h3>
+<div align="center">
+
+### Allen
 
 Allen is the agent I’m training and the intelligence platform I’m beginning to build.
 
@@ -76,34 +77,42 @@ It is early, but real. I’m teaching it to inspect software, use tools, gather 
 
 The long-term direction is an LLM and intelligence platform, not just another assistant wrapper.
 
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">form.digital</h3>
-
-Web and full-stack development are a major part of my work through form.digital.
-
-I build websites, full-stack applications, digital platforms, APIs, integrations, design systems, and production-ready experiences where strategy, story, design, engineering, and performance all have to work together.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 <div align="center">
 
-## Creative & Marketing
-
-### form.creative & marketing
-
-**We create worlds. Not just the content inside them.**
+## How I build with form.
 
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">form.digital</h3>
+
+**Web & Full-Stack Development** sits at the center of the work.
+
+I build websites, full-stack applications, internal tools, digital platforms, APIs, integrations, design systems, automation, and production-ready infrastructure.
+
+The goal is not just to ship code. Strategy, UX, performance, accessibility, data, deployment, and the way the product supports the organization all have to work together.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">form.creative & marketing</h3>
+
+**We create worlds. Not just the content inside them.**
+
 I lead our creative and marketing agency across brand identity, creative direction, campaigns, content, design, video, social, digital experiences, and marketing strategy.
 
-To me, creative work is not decoration. It is how people experience an organization. The brand, the product, the website, the campaign, and the human interaction should all feel like they came from the same place.
+The brand, the product, the website, the campaign, and the human interaction should feel like they came from the same place.
+
+</td>
+</tr>
+</table>
 
 ---
 
