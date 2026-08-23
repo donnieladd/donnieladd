@@ -1,15 +1,14 @@
 <div align="center">
 
+<img src="./assets/form-profile-hero.jpg" width="340" alt="form. artwork">
+
 # Dontae Ladson
 
 ### Founder & Principal Solutions Architect · Form Intel
 
-## VISION NEEDS STRUCTURE
-
 **I build systems, products, brands, and experiences that help people move from vision to something real.**
 
-Software, web development, AI, automation, creative, marketing, operations — those are different parts of the work.  
-**People are the reason I care about any of it.**
+Software · Web Development · AI · Automation · Creative · Marketing · Operations
 
 [form.](https://formintel.co) · [GitHub](https://github.com/donnieladd)
 
@@ -17,143 +16,120 @@ Software, web development, AI, automation, creative, marketing, operations — t
 
 ---
 
-## I came into technology through people, creativity, and systems.
+## A little about me
 
-I didn’t start building because I was fascinated with technology for its own sake.
+I came into technology through people, creativity, and systems.
 
-I kept seeing good people with strong ideas fighting through bad systems, disconnected tools, unclear ownership, weak communication, inconsistent experiences, and work that never quite looked or functioned the way they imagined it should.
+I kept seeing good people with strong ideas fighting through bad tools, disconnected processes, unclear ownership, and experiences that did not match the vision. So I started building.
 
-So I started building.
+Sometimes that looks like software. Sometimes it is a website, brand system, campaign, workflow, AI agent, product, or operating model. The medium changes. The goal does not.
 
-Sometimes that means architecture. Sometimes it means code. Sometimes it means a website, a brand system, a campaign, a workflow, an AI agent, a product, or an entirely new operating model.
+**Make the work clearer, stronger, and more human.**
 
-I care about whether the thing actually works — but I care just as much about whether **people trust it, understand it, feel considered by it, and can do better work because it exists.**
+> **I build around people, not people around systems.**
 
-**Relational equity matters to me.** A system can be technically correct and still make an organization colder, more confusing, or less human. A brand can look beautiful and still fail to understand the people it is supposed to reach. I don’t consider either one good work.
-
-> **I build around people — not people around systems.**
-
-My work lives at the intersection of **people, creativity, process, data, software, and intelligence**.
+Relational equity matters to me. I care about whether the thing works, but I also care whether people trust it, understand it, and feel considered by it.
 
 ---
 
-## What I’m Building
+<div align="center">
+
+## What I’m building
+
+**form. is the company I’m building for the long term.**
+
+We work across strategy, systems, software, AI, digital, creative, marketing, and operations. I care about seeing the whole picture and building what actually needs to exist.
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### form.
+<h3 align="center">form. | HQ</h3>
 
-form. is the company I’m building for the long term.
+This is the build I’m deepest in right now.
 
-The idea underneath it is simple: most organizations do not have isolated problems. Their brand, technology, operations, people, data, communication, and customer experience all affect one another.
+A hybrid human + AI workforce operating system where people and persistent AI employees can share work, context, tools, authority, memory, and accountability.
 
-I want form. to be able to see that whole picture and help build what is missing — whether that is a system, a product, a website, a creative platform, an AI capability, or the operating structure underneath all of it.
-
-**Vision deserves infrastructure.**
+The goal is simple: make work clearer without making the organization less human.
 
 </td>
 <td width="50%" valign="top">
 
-### form. | HQ
+<h3 align="center">form. | leads</h3>
 
-**This is the build I’m deepest in right now.**
+A lead generation system I’m building for form.digital.
 
-form. | HQ is where I’m working through what a real hybrid human + AI organization should look and feel like day to day.
+It discovers businesses that may need a stronger website, researches and qualifies them with AI, scores the opportunity, syncs the lead into Monday.com, and supports outreach through Gmail.
 
-Not humans serving the machine.  
-Not agents pretending to be people.  
-Not a chatbot sitting beside the organization.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A shared operating environment where humans and persistent AI employees can work together with clear roles, context, tools, authority, accountability, memory, and handoffs.
+<h3 align="center">Allen</h3>
 
-The goal is to make work clearer without making work less human.
+Allen is the agent I’m training and the intelligence platform I’m beginning to build.
 
-**The technology matters. The relationships inside the system matter just as much.**
+It is early, but real. I’m teaching it to inspect software, use tools, gather evidence, diagnose problems, remember what happened, and get better over time.
+
+The long-term direction is an LLM and intelligence platform, not just another assistant wrapper.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">form.digital</h3>
+
+Web development is a major part of my work.
+
+I build websites, full-stack applications, digital platforms, APIs, integrations, design systems, and production-ready experiences where strategy, story, design, engineering, and performance all have to work together.
 
 </td>
 </tr>
 </table>
 
-### Allen
-
-Allen is the agent I’m training and the intelligence platform I’m beginning to build.
-
-Right now, Allen is early — but real. I’ve already started teaching it to inspect repositories, understand different application stacks, boot and interrogate software, gather evidence, use tools, diagnose failures, and learn from what happened before.
-
-I’m not trying to build another thin wrapper around somebody else’s model.
-
-Over time, I want Allen to become **both an LLM and a complete intelligence platform** — something much closer in category to Claude than to a conventional assistant.
-
-That means doing the hard work around reasoning, memory, learning, tools, execution, model architecture, safety, evaluation, and the relationship between an intelligent system and the person trusting it with real work.
-
-I’m still early in that journey, and I’m comfortable saying that plainly.
-
 ---
 
-## Web & Digital Product Development
-
-Web development is a major part of my work.
-
-I build websites and digital products as **real systems**, not just pages that happen to look good.
-
-For me, the web is one of the places where strategy, story, design, engineering, conversion, accessibility, performance, and operations all have to meet.
-
-Through **form.digital** and my broader product work, I spend a lot of time on:
-
-- full-stack web applications
-- websites and digital platforms
-- product architecture
-- responsive UI systems
-- frontend engineering
-- backend services and APIs
-- integrations and workflow automation
-- accessibility and performance
-- deployment and production hardening
-- design systems and reusable component architecture
-
-A website should make the organization behind it feel clearer, more trustworthy, and easier to engage — not simply more impressive.
-
----
+<div align="center">
 
 ## Creative & Marketing
 
-I also lead **form.creative & marketing**, our creative and marketing agency.
+### form.creative & marketing
 
-Creative work is not separate from how I think about systems. It is another way people experience an organization.
+**We create worlds. Not just the content inside them.**
 
-We work across **brand identity, creative direction, campaigns, content, design, video, social, digital experiences, marketing strategy, and the systems that help creative teams execute consistently.**
+</div>
 
-The work I care about most is not decoration. It is understanding what someone is trying to say, who they are trying to reach, what people should feel, and then building a world around that idea that is coherent enough to be recognized and human enough to be trusted.
+I lead our creative and marketing agency across brand identity, creative direction, campaigns, content, design, video, social, digital experiences, and marketing strategy.
 
-> **We create worlds. Not just the content inside them.**
-
-That is also why I care so much about the connection between creative and technology. A strong brand should survive the transition from strategy to design to website to product to campaign to real human interaction without losing itself along the way.
+To me, creative work is not decoration. It is how people experience an organization. The brand, the product, the website, the campaign, and the human interaction should all feel like they came from the same place.
 
 ---
 
-## How I Think About Architecture
+<div align="center">
 
-My work crosses traditional role boundaries because real problems usually do too.
+## How I think about the work
 
-| Architecture | Engineering | Intelligence | Creative & Experience |
-| --- | --- | --- | --- |
-| Solutions Architecture | Product Engineering | AI Systems | Creative Direction |
-| Software Architecture | Full-Stack Development | Agentic Architecture | Brand Systems |
-| Systems Architecture | API Development | Model Orchestration | Digital Experience |
-| Integration Architecture | Platform Engineering | RAG & Context Systems | Marketing Systems |
-| Technical Strategy | Prototyping | Tool-Using Agents | Experience Design |
+**People · Creativity · Process · Data · Software · Intelligence**
 
-I’m usually thinking about more than whether something *can* be built.
+</div>
 
-I’m thinking about whether it should be built this way, who has to live with it afterward, what the experience communicates, where responsibility sits, what happens when it fails, how people know what to trust, and whether the whole thing gets stronger as the organization grows.
+I move across disciplines because real problems usually do too. I may be thinking about architecture, code, customer experience, brand, workflow, data, or leadership in the same build.
+
+The questions I keep coming back to are simple:
+
+- Does this make the work easier to understand?
+- Does it help people do better work?
+- Is ownership clear?
+- Can people trust it?
+- Does the technology serve the relationship, or get in the way of it?
 
 ---
+
+<div align="center">
 
 ## Languages
-
-<div>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
@@ -167,15 +143,9 @@ I’m thinking about whether it should be built this way, who has to live with i
 ![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white)
 
-</div>
+**Currently digging into:** `C++`
 
-`TypeScript` · `JavaScript` · `Python` · `Go` · `Rust` · `Ruby` · `Java` · `PHP` · **`HTML`** · `CSS` · `SQL`
-
-**Currently exploring:** `C++`
-
----
-
-## Frameworks & Application Development
+### Frameworks & Application Development
 
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
@@ -186,27 +156,7 @@ I’m thinking about whether it should be built this way, who has to live with i
 
 `Next.js` · `React` · `Node.js` · `FastAPI` · `LangGraph` · `Tailwind CSS` · `Framer Motion`
 
----
-
-## AI & Intelligence
-
-I don’t build around one model company. I use different models for different kinds of thinking, building, research, execution, and experimentation.
-
-### Models & Model Ecosystems
-
-`OpenAI` · `Anthropic / Claude` · `Google Gemini` · `xAI / Grok` · `Moonshot AI / Kimi` · `DeepSeek` · `Z.ai / GLM` · `Nous Research / Hermes`
-
-### Agentic Systems & AI Runtime Tooling
-
-`OpenClaw` · `Hermes Agent` · `LangGraph` · `MCP` · `OpenRouter` · `Tool Use` · `Agent Orchestration` · `Model Routing` · `RAG` · `Memory Systems` · `Context Engineering`
-
-The interesting part to me is not simply which model scores highest this month.
-
-It is what happens when you give intelligence the right **context, tools, memory, authority, boundaries, feedback, and responsibility** — and then design the human relationship around it well.
-
----
-
-## Data, Infrastructure & Deployment
+### Data, Infrastructure & Deployment
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white)
@@ -215,79 +165,33 @@ It is what happens when you give intelligence the right **context, tools, memory
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
 
-`PostgreSQL` · `Supabase` · `Railway` · `Vercel` · `GitHub` · `GitHub Actions` · `Docker`
-
----
-
-## Automation & Integration
-
-`REST APIs` · `Webhooks` · `MCP` · `Event-Driven Systems` · `Agentic Workflows` · `Business Process Automation` · `Systems Integration`
-
----
-
-## The Work Beneath the Work
-
-Most of what I care about is bigger than a single app, campaign, website, or feature.
-
-When I’m building, I’m usually asking questions like:
-
-- What is actually making this hard for the people doing the work?
-- What are we really trying to communicate?
-- What should someone feel when they encounter this?
-- What information keeps getting lost between people or systems?
-- Where is trust being spent because the experience is unclear?
-- What should a human own because judgment or relationship matters?
-- What should the system carry because a person shouldn’t have to?
-- Where can AI create leverage without quietly taking away accountability?
-- How do we make the right thing easier to do?
-
-That is the work I enjoy most.
-
----
-
-## What I’m Exploring Right Now
-
-### Hybrid human + AI organizations
-
-How do we build organizations where humans and AI can genuinely work together without reducing people to approvers or pretending agents are human?
-
-### AI-native architecture
-
-What becomes possible when intelligence is part of the architecture from the beginning instead of being bolted onto software at the end?
-
-### Agentic systems
-
-How should agents reason, use tools, hand work off, learn, escalate, communicate, and know when a person needs to be involved?
-
-### Allen
-
-What does it take to move from orchestrating frontier models to building an intelligence platform — and eventually an LLM — with its own durable capabilities?
-
-### Connected digital experiences
-
-How do brand, content, product, web, marketing, data, and operations stay coherent enough that a person experiences one organization instead of six disconnected departments?
-
----
-
-## A Few Things I Believe
-
-**Good systems should create clarity, not dependence.**
-
-**Good creative should make people feel understood, not manipulated.**
-
-**AI should increase human capacity, not erase human value.**
-
-**Automation should remove unnecessary work, not meaningful responsibility.**
-
-**A beautiful experience that does not work is unfinished. A system that works but has no humanity is unfinished too.**
-
-**People need context, trust, ownership, and room to exercise judgment.**
-
-That’s the kind of work I want to keep building.
+</div>
 
 ---
 
 <div align="center">
+
+## AI & Intelligence
+
+I do not build around one model company. Different models are useful for different kinds of work.
+
+**Models & ecosystems**
+
+`OpenAI` · `Anthropic / Claude` · `Google Gemini` · `xAI / Grok` · `Moonshot AI / Kimi` · `DeepSeek` · `Z.ai / GLM` · `Nous Research / Hermes`
+
+**Agentic systems & runtime tooling**
+
+`OpenClaw` · `Hermes Agent` · `LangGraph` · `MCP` · `OpenRouter` · `Tool Use` · `Agent Orchestration` · `Model Routing` · `RAG` · `Memory Systems` · `Context Engineering`
+
+</div>
+
+What interests me most is not which model wins a benchmark. It is what happens when intelligence has the right context, tools, memory, boundaries, feedback, and relationship with the people using it.
+
+---
+
+<div align="center">
+
+<img src="./assets/form-vision-structure.jpg" width="430" alt="form. vision artwork">
 
 ## VISION NEEDS STRUCTURE
 
