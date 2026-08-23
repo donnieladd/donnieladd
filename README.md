@@ -34,7 +34,7 @@ The medium changes. The standard does not. **It should work, make sense, and lea
 
 <div align="center">
 
-<img src="./assets/form-people-quote.svg" width="760" alt="I build around people, not people around systems.">
+<img src="./assets/form-people-quote.svg" width="760" alt="I build technology. I build systems around people, not people around systems.">
 
 </div>
 
@@ -130,7 +130,11 @@ The goal is coherence. The brand, website, product, campaign, and real human exp
 
 ## How I think about the work?
 
-<img src="./assets/form-thinking-strip.svg" width="760" alt="People, Creativity, Process, Data, Technology, Intelligence">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/form-thinking-strip-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/form-thinking-strip-light.svg">
+  <img src="./assets/form-thinking-strip-light.svg" width="760" alt="People, Creativity, Process, Data, Technology, Intelligence">
+</picture>
 
 I move across disciplines because the work does not stay in one lane. Architecture affects experience. Brand affects trust. Data affects decisions. Systems affect people.
 
@@ -152,38 +156,38 @@ A few questions keep me honest:
 ## Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-2F6BFF?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=111111)
-![Python](https://img.shields.io/badge/Python-D49A3A?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2F6BFF?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2F6BFF?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-2F6BFF?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-FFFFFF?style=flat-square&logo=rust&logoColor=111111)
-![Ruby](https://img.shields.io/badge/Ruby-D49A3A?style=flat-square&logo=ruby&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-2F6BFF?style=flat-square&logo=rust&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-2F6BFF?style=flat-square&logo=ruby&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-2F6BFF?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-FFFFFF?style=flat-square&logo=php&logoColor=111111)
-![HTML](https://img.shields.io/badge/HTML-D49A3A?style=flat-square&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-2F6BFF?style=flat-square&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-2F6BFF?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2F6BFF?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=111111)
+![SQL](https://img.shields.io/badge/SQL-2F6BFF?style=flat-square&logo=postgresql&logoColor=white)
 
-![C++](https://img.shields.io/badge/Currently_digging_into-C%2B%2B-D49A3A?style=flat-square&logoColor=white)
+![C++](https://img.shields.io/badge/Currently_digging_into-C%2B%2B-2F6BFF?style=flat-square&logoColor=white)
 
 ### Frameworks & Application Development
 
-![Next.js](https://img.shields.io/badge/Next.js-2F6BFF?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=react&logoColor=111111)
+![Next.js](https://img.shields.io/badge/Next.js-D49A3A?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-D49A3A?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-D49A3A?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-2F6BFF?style=flat-square&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=flat-square&logo=tailwindcss&logoColor=111111)
+![FastAPI](https://img.shields.io/badge/FastAPI-D49A3A?style=flat-square&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-D49A3A?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-D49A3A?style=flat-square&logo=framer&logoColor=white)
 
 `Next.js` · `React` · `Node.js` · `FastAPI` · `LangGraph` · `Tailwind CSS` · `Framer Motion`
 
 ### Data, Infrastructure & Deployment
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F6BFF?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=111111)
 ![Supabase](https://img.shields.io/badge/Supabase-FFFFFF?style=flat-square&logo=supabase&logoColor=111111)
-![Railway](https://img.shields.io/badge/Railway-D49A3A?style=flat-square&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-2F6BFF?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-FFFFFF?style=flat-square&logo=railway&logoColor=111111)
+![Vercel](https://img.shields.io/badge/Vercel-FFFFFF?style=flat-square&logo=vercel&logoColor=111111)
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=111111)
-![Docker](https://img.shields.io/badge/Docker-D49A3A?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=111111)
 
 </div>
 
@@ -211,12 +215,10 @@ What interests me most is not the benchmark. It is what happens when intelligenc
 
 <div align="center">
 
-## VISION NEEDS STRUCTURE
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/form-future-lockup-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/form-future-lockup-light.svg">
-  <img src="./assets/form-future-lockup-light.svg" width="390" alt="the future needs form.">
+  <img src="./assets/form-future-lockup-light.svg" width="520" alt="VISION NEEDS STRUCTURE. the future needs form.">
 </picture>
 
 </div>
