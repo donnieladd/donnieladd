@@ -118,7 +118,7 @@ The brand, the product, the website, the campaign, and the human interaction sho
 
 <div align="center">
 
-## How I think about the work
+## How I think about the work?
 
 **People · Creativity · Process · Data · Software · Intelligence**
 
